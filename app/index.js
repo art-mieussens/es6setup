@@ -1,1 +1,3 @@
-console.log('Hello world!');
+let limit = 120;
+
+console.log(limit);
